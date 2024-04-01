@@ -2,7 +2,7 @@ img = "";
 
 function preLoad()
 {
-
+    img = loadImage('dog_cat.jpg');
 }
 
 function draw()
